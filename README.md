@@ -15,8 +15,8 @@ Live Preview: 👉🏽 [personal-portfolio.githu.io](https://horux1.github.io/Po
 ## Demo
 ![Demo](https://raw.githubusercontent.com/ivansaul/demos/master/python/personal-portfolio-demo.gif)
 
-! [## Credits]
-! This project is based on [vcard portfolio](vard). The main focus of this project is adding new features and make it accessible to everyone.
+## Credits
+This project is based on [vcard portfolio](Vcard). The main focus of this project is adding new features and make it accessible to everyone.
 
 ## License
 
