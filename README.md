@@ -10,7 +10,7 @@
 
 Personal - Portfolio is a fully responsive personal developer portfolio single-page website, responsive for all devices, built using HTML, CSS, JavaScript and Python.
 
-Live Preview: 👉🏽 [personal-portfolio.githu.io](https://ivansaul.github.io/personal-portfolio/)
+Live Preview: 👉🏽 [personal-portfolio.githu.io](https://horux1.github.io/Portfolio/)
 
 ## Demo
 ![Demo](https://raw.githubusercontent.com/ivansaul/demos/master/python/personal-portfolio-demo.gif)
