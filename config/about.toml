@@ -1,0 +1,13 @@
+name = "Sebastian Cortes Higuera"
+rol = "Front-End Developer"
+email = "sebastianhc.10@outlook.com"
+phone = " 82852852"
+birthday = "2 jun, 1993 "
+location = "Brisbane, Queensland, AU"
+avatar = "./config/assets/avatars/my-avatar.png"
+username = "Horux1" # <-- github user name
+googlemaps = "https://www.google.com/maps/place/Brisbane+Queensland/@-27.3811442,152.6628691,10z/data=!3m1!4b1!4m6!3m5!1s0x6b91579aac93d233:0x402a35af3deaf40!8m2!3d-27.4704528!4d153.0260341!16zL20vMDFiOGpq?entry=ttu" 
+presentation = """
+dhfghfgjgjghjg
+dgdfgdfg
+"""
